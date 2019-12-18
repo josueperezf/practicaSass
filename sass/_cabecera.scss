@@ -1,0 +1,4 @@
+.cuadro-1{
+    //@extend %contenedor;
+    @include cuadro(100px, yellow);
+}

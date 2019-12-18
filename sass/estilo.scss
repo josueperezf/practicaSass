@@ -1,0 +1,9 @@
+@import "variables";
+//@import "seccionPadre";
+// si se quiere heredar de la clase padre se debe colocar dentro de la clase q se quiera  
+//.x{@extend%contenedor;}
+
+@import "mixin";
+@import "cabecera";
+@import "contenido";
+@import "footer";

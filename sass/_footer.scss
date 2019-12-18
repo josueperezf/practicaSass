@@ -1,0 +1,5 @@
+.cuadro-3{
+    //@extend %contenedor;
+    //background-color: red;
+    @include cuadro(50px, red);
+}

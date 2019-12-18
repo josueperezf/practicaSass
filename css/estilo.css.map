@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/_cabecera.scss","../sass/_mixin.scss","../sass/_variables.scss","../sass/_contenido.scss","../sass/_footer.scss"],"names":[],"mappings":"AAAA;ECGI,QDDgB;ECEhB;EACA,OCLiB;EDMjB,kBDJuB;ECKvB;;;AEPJ;EFGI;EACA;EACA,OCLiB;EDMjB,kBAJ4B;EAK5B;;;AGPJ;EHGI;EACA;EACA,OCLiB;EDMjB,kBGHsB;EHItB","file":"estilo.css"}

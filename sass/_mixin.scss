@@ -1,0 +1,9 @@
+// se puede declarar solo cuadro si no recibe parametros
+//color azul es un valor por default
+@mixin cuadro($alto,$colorFondo:blue) {
+    height: $alto;
+    padding: 20px;
+    color:$colorTextoContenido;
+    background-color: $colorFondo;
+    border-radius: 5px;
+}
